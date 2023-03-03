@@ -33,7 +33,7 @@ public class ConsumoService {
 
     public void imprimirConsumo(){
         System.out.println("----------CONTA FECHADA----------");
-        System.out.println("Conta Fechada: " + consumo.getNomeCliente());
+        System.out.println("Conta: " + consumo.getNomeCliente());
         for(Produto produto : consumo.getProdutosConsumidos()){
             System.out.println("Nome: " + produto.getNomeProduto() + " | Qnt: " + produto.getQuantidadeProduto() + " | Preço: R$" + produto.getPrecoProduto() );
         }
