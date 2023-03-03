@@ -5,7 +5,7 @@ import com.exercises1.entities.Table;
 /*
  *  1 – Um grupo contendo 3 amigos foram até uma lanchonete para comer lanche, cada um comeu um 
     combo, e no final decidiram dividir o valor total em igual valor para cada um. Imprima a descrição 
-    e valor do combo e o nome da pessoal que o consumiu, e no final o valor total da conta a ser paga e 
+    e valor do combo e o nome da pessoa que o consumiu, e no final o valor total da conta a ser paga e 
     o valor unitário que cada um deve pagar, segue os dados do combo:
     a – Pedro, Combo Big, R$ 32,00
     b – Maria, Combo King, R$ 40,20
